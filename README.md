@@ -4,6 +4,7 @@ This project aims to analyze bank and e-commerce data to derive insights and mak
 
 Problem Statements
 Case 1 : Bank Data Analysis
+
 Treatment of Customers Under 18:
 
 Provide meaningful treatment to all values where age is less than 18.
@@ -12,7 +13,9 @@ Credit Management:
 
 Identify cases where repayment is more than spend and provide a credit of 2% of the surplus amount in the next month billing.
 Impose an interest rate of 2.9% for each customer for any due amount.
+
 Case 2 : E-commerce Data Analysis
+
 Treatment of Blank Credit Card Entries:
 
 Provide meaningful treatment where the credit card entries are blank.
@@ -55,5 +58,8 @@ Discount and Order Relationship:
 Determine which payment method is providing more discount for customers.
 Create a profile for high-value items vs low-value items and relate that with the number of orders.
 Analyze if providing more discounts could lead to an increase in the number of orders.
+
+
 Conclusion
+
 This project will provide valuable insights into customer behavior, spending patterns, and profitability, helping in making data-driven decisions to improve business strategies and customer satisfaction.
