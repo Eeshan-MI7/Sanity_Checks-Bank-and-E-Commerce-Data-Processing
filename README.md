@@ -14,6 +14,9 @@ Credit Management:
 Identify cases where repayment is more than spend and provide a credit of 2% of the surplus amount in the next month billing.
 Impose an interest rate of 2.9% for each customer for any due amount.
 
+![image](https://github.com/Eeshan-MI7/Sanity_Checks-Bank-and-E-Commerce-Data-Processing/assets/91685371/09ce6d14-a195-470b-9ad1-8412a03814af)
+
+
 Case 2 : E-commerce Data Analysis
 
 Treatment of Blank Credit Card Entries:
