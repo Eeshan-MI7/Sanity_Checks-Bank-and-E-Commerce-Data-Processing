@@ -30,6 +30,10 @@ Ensure the return date is after the purchase date.
 If the coupon ID is NULL, ensure no discount is given.
 Ensure age is greater than 18 for all credit card holders.
 Ensure transaction ID is unique for all transactions.
+![image](https://github.com/Eeshan-MI7/Sanity_Checks-Bank-and-E-Commerce-Data-Processing/assets/91685371/46a3ee3b-5f02-43d4-b7be-3632b148e681)
+
+
+
 Tasks
 Bank Data Analysis
 Monthly Analysis:
@@ -61,6 +65,8 @@ Discount and Order Relationship:
 Determine which payment method is providing more discount for customers.
 Create a profile for high-value items vs low-value items and relate that with the number of orders.
 Analyze if providing more discounts could lead to an increase in the number of orders.
+
+
 
 
 Conclusion
